@@ -1,3 +1,4 @@
+//Write a program to Convert Seconds into its respective hours and minutes and seconds.
 #include <stdio.h>
 struct time
 {
